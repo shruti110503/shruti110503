@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hey!!  
-🔭 I’m a third-year college student at VIT Bhopal  
+🔭 I’m a final-year college student at VIT Bhopal  
 🌱 Aspiring Software Engineer | Full Stack Developer  
 🚀 Passionate about AI, Web Development, and Assistive Tech  
 
